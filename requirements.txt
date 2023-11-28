@@ -1,0 +1,4 @@
+instagrapi
+facebook-scraper
+pytesseract
+requests
