@@ -2,3 +2,5 @@ instagrapi
 facebook-scraper
 pytesseract
 requests
+python-dotenv
+Pillow

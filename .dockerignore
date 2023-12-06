@@ -1,3 +1,5 @@
 .venv
 *.log
 storage/*
+__pycache__
+.env
