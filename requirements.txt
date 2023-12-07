@@ -4,3 +4,4 @@ pytesseract
 requests
 python-dotenv
 Pillow
+schedule

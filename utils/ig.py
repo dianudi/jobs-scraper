@@ -5,7 +5,6 @@ from os import getenv
 from utils import log
 from dotenv import load_dotenv
 load_dotenv()
-
 ig = Client(delay_range=[1, 3])
 
 if (not exists('storage/session.json')):
